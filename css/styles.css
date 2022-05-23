@@ -413,3 +413,12 @@ button {
 .new__card:hover .new__img {
     transform: translateY(-.5rem);
 }
+
+/* CLASS SWIPER */
+.swiper-pagination-bullet {
+    background-color: var(--text-color);
+}
+
+.swiper-pagination-bullet-active {
+    background-color: var(--first-color);
+}
